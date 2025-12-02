@@ -30,16 +30,16 @@ Tools I reach for often:
   <img width="50" height="50" alt="TypeScript" src="https://github.com/user-attachments/assets/3f688fed-e4bb-4e62-9db2-76307dccb242" />
 </p>
 
-- **React / Next.js**
+- **React**
 - **TypeScript**
+- **Next.js**
 - **Vite**
 - **GraphQL**
-- **Redux Toolkit**
 - **Modern CSS / Motion** (Framer Motion, GSAP)
 - **Node / Express** (for lightweight backend work)
 
 ## Let’s Connect
 
-<a href="https://lachlan.dev">Website</a> • 
+<a href="https://github.com/instant-coffee">Website</a> • 
 <a href="https://www.linkedin.com/in/lachlan-mackenzie-ic/">LinkedIn</a> • 
 <a href="https://github.com/instant-coffee">GitHub</a>
