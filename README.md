@@ -15,7 +15,7 @@ Whether it’s debugging an onboarding flow or re-wiring an old Rover, the proce
 
 ## Currently
 
-- Building a new personal site using Vue.js and modern tooling  
+- Building a new personal [site / sandbox](https://instant-coffee-g8v3qn9ws-lachlan-mackenzies-projects.vercel.app/) using modern tooling. 
 - Exploring UX engineering patterns in motion, narrative interfaces, and calm technology  
 - Running a Raspberry Pi RoverGauge + diagnostics build  
 - Sharpening product thinking through small PLG-focused experiments  
