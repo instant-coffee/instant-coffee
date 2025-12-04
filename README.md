@@ -3,7 +3,7 @@
 
 ## About Me
 
-My strengths sit at the intersection of craft-focused UI engineering and clear, structured thinking. I’m comfortable owning ambiguous problems end-to-end—prototyping ideas, validating them, collaborating across teams, and shipping improvements tied to measurable outcomes.
+My strengths sit at the intersection of craft-focused UI engineering and clear, structured thinking. I’m comfortable owning ambiguous problems end-to-end; prototyping ideas, validating them, collaborating across teams, and shipping improvements tied to measurable outcomes.
 
 I also have strong instincts around systems and architecture.
 
